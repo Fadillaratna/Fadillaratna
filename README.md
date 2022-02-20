@@ -18,7 +18,9 @@
 </div><br>
 
 <div align="center">
-
+    
+---
+    
 ### ✨How to reach me? 
 You can reach me with the link bellow :
 
@@ -28,7 +30,7 @@ You can reach me with the link bellow :
  
 </div><br>
 
-
+---
 
 <details>
   <summary>📫GitHub Stats</summary>

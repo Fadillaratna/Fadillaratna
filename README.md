@@ -53,5 +53,12 @@ You can reach me with the link bellow :
 
 </details><br>
 
+<details>
+  <summary>📊Streak Stats</summary>
+
+  <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillaratna&theme=radical" />
+
+</details><br>
+
 
 

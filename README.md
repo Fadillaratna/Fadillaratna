@@ -44,12 +44,12 @@ You can reach me with the link bellow :
 
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" />
 
-</details><br>
+</details>
 
 <details>
   <summary>📊Contribution Graph</summary>
 
-  <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Fadillaratna&theme=radical" />
+  <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Fadillaratna&theme=react-dark" />
 
 </details><br>
 

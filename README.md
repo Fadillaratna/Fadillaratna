@@ -46,19 +46,20 @@ You can reach me with the link bellow :
 
 </details>
 
-<details>
-  <summary>📊Contribution Graph</summary>
-
-  <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Fadillaratna&theme=react-dark" />
-
-</details><br>
 
 <details>
-  <summary>📊Streak Stats</summary>
+  <summary>📊Activity Graph</summary>
 
   <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillaratna&theme=radical" />
 
-</details><br>
+</details>
+
+<details>
+  <summary>📊Contribution Graph</summary>
+
+  <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Fadillaratna&theme=rogue" />
+
+</details>
 
 
 

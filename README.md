@@ -50,7 +50,7 @@ You can reach me with the link bellow :
 <details>
   <summary>📫Top Languages</summary>
     
-  <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" /><br>
+  <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
   
 </details>

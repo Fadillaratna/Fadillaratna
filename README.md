@@ -33,9 +33,9 @@ You can reach me with the link bellow :
 
 <details>
   <summary>📫GitHub Stats</summary>
-<!--START_SECTION:activity-->
+
   <img  alt="FadillaratnaGitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fadillaratna&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-<!--END_SECTION:activity-->
+
 
 </details>
 

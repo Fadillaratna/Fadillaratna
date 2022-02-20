@@ -3,6 +3,8 @@
 
 <h2 align="center">I am 𝙁𝙖𝙙𝙞𝙡𝙡𝙖 𝙍𝙖𝙩𝙣𝙖 𝘿𝙬𝙞𝙩𝙖 </h2>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
     <div style="display: inline_block" align="center"><br>
         <img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:40px;" />

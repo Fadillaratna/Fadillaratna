@@ -43,7 +43,9 @@ You can reach me with the link bellow :
   <summary>📫Most Used Languages</summary>
 
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" />
-
+  <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
+  <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
+  
 </details>
 
 

@@ -24,7 +24,7 @@
 ### ✨How to reach me? 
 You can reach me with the link bellow :
 
- [![Instagram Badge](https://img.shields.io/badge/-fadillaratnaa_-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fadillaratnaa_/)](https://www.instagram.com/fadillaratnaa_/) [![Gmail Badge](https://img.shields.io/badge/-ratnafadilla183@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ratnafadilla183@gmail.com)](mailto:ratnafadilla183@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Fadillaratna-orange?style=flat-square&logo=github&logoColor=white&linkhttps://github.com/Fadillaratna)](https://github.com/Fadillaratna) 
+ [![Instagram Badge](https://img.shields.io/badge/-fadillaratnaa_-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fadillaratnaa_/)](https://www.instagram.com/fadillaratnaa_/) [![Gmail Badge](https://img.shields.io/badge/-ratnafadilla183@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ratnafadilla183@gmail.com)](mailto:ratnafadilla183@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-inkraandini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadillaratna)](https://www.linkedin.com/in/fadillaratna) [![Portfolio Badge](https://img.shields.io/badge/-Fadillaratna-orange?style=flat-square&logo=github&logoColor=white&linkhttps://github.com/Fadillaratna)](https://github.com/Fadillaratna) 
  <br>
  <img src="https://media.giphy.com/media/8wyLuHS5605XVJUOK4/giphy.gif" width="20%">
  

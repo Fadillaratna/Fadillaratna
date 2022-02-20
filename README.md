@@ -26,7 +26,7 @@ You can reach me with the link bellow :
  <br>
  <img src="https://media.giphy.com/media/8wyLuHS5605XVJUOK4/giphy.gif" width="20%">
  
-</div><br>
+</div>
 
 
 ---

@@ -2,7 +2,6 @@
 
 
 <h2 align="center">I am 𝙁𝙖𝙙𝙞𝙡𝙡𝙖 𝙍𝙖𝙩𝙣𝙖 𝘿𝙬𝙞𝙩𝙖 </h2>
----
 
 <div align="center">
     <div style="display: inline_block" align="center"><br>

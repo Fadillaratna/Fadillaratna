@@ -5,8 +5,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![followers](https://img.shields.io/github/followers/inkra?style=social)
-![stars](https://img.shields.io/github/stars/inkra?style=social)
+![followers](https://img.shields.io/github/followers/Fadillaratna?style=social)
+![stars](https://img.shields.io/github/stars/Fadillaratna?style=social)
 
 <div align="center">
   <h3>My Skills </h3>
@@ -51,7 +51,7 @@ You can reach me with the link bellow :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
-  <summary>📫GitHub Stats</summary>
+  <summary>🔥GitHub Stats</summary>
 
   <img  alt="FadillaratnaGitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fadillaratna&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 
@@ -59,7 +59,7 @@ You can reach me with the link bellow :
 </details>
 
 <details>
-  <summary>📫Most Used Languages</summary>
+  <summary>🔥Most Used Languages</summary>
 
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" /><br>
 
@@ -67,7 +67,7 @@ You can reach me with the link bellow :
 </details>
 
 <details>
-  <summary>📫Top Languages</summary>
+  <summary>🔥Top Languages</summary>
     
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
@@ -76,14 +76,14 @@ You can reach me with the link bellow :
 
 
 <details>
-  <summary>📊Activity Graph</summary>
+  <summary>🔥Activity Graph</summary>
 
   <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillaratna&theme=radical" />
 
 </details>
 
 <details>
-  <summary>📊Contribution Graph</summary>
+  <summary>🔥Contribution Graph</summary>
 
   <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Fadillaratna&theme=rogue" />
 

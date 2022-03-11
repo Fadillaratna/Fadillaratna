@@ -51,14 +51,43 @@ You can reach me with the link bellow :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
-  <summary>🔥Github Info</summary>
-  <div align="center>
-    <img  alt="FadillaratnaGitHub Stats" src="https://github-readme-stats.vercel.app/apiusername=Fadillaratna&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-  </div> </br>
- 
+  <summary>📫GitHub Stats</summary>
+
+  <img  alt="FadillaratnaGitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fadillaratna&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+
 
 </details>
 
+<details>
+  <summary>📫Most Used Languages</summary>
+
+  <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" /><br>
+
+  
+</details>
+
+<details>
+  <summary>📫Top Languages</summary>
+    
+  <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
+  <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
+  
+</details>
+
+
+<details>
+  <summary>📊Activity Graph</summary>
+
+  <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillaratna&theme=radical" />
+
+</details>
+
+<details>
+  <summary>📊Contribution Graph</summary>
+
+  <img alt="Fadilla Ratna Dwita's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Fadillaratna&theme=rogue" />
+
+</details>
 
 
 

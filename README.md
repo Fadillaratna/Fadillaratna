@@ -52,7 +52,11 @@ You can reach me with the link bellow :
 
 <details>
   <summary>🔥Github Info</summary>
-  <div>
+  <div align="center>
+    <img  alt="FadillaratnaGitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fadillaratna&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+    <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" /><br>
+  </div>
+  <div align="center>
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
   </div>

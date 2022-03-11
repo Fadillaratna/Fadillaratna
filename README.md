@@ -56,10 +56,8 @@ You can reach me with the link bellow :
 <tr border="0">
 <td width="50%" align="center">
   
-    <img  alt="FadillaratnaGitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fadillaratna&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-
-  <br></br>
-   <img alt="FadillaratnaGitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" /><br>
+<img  align="center" width="400px" height="158px" alt="FadillaratnaGitHub Stats" src="https://github-readme-stats.vercel.app/apiusername=Fadillaratna&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /> 
+<img alt="FadillaratnaGitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" width = 500/><br>
 
   
 </td>

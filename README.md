@@ -5,6 +5,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- <h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{inkra}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/> -->
+
 <div align="center">
   <h3>My Skills </h3>
   

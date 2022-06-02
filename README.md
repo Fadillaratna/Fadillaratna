@@ -1,4 +1,5 @@
-<h1 align="center"> 𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> 𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 
+<!--   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1> -->
 
 
 <h2 align="center">I am 𝙁𝙖𝙙𝙞𝙡𝙡𝙖 𝙍𝙖𝙩𝙣𝙖 𝘿𝙬𝙞𝙩𝙖 </h2>
